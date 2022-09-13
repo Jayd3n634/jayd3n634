@@ -5,7 +5,7 @@
 
 - *Distinct RP --> https://discord.gg/8BPUFZdgSp*
 
-- *Distinct RP --> (Coming soon)*
+- *Mystic RP --> (Coming soon)*
 
 - *I’m currently intrested in --> **lua, html, python & Java Script***
 
