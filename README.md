@@ -7,7 +7,7 @@
 
 - *I’m currently intrested in* --> **lua, html, python & Java Script**
 
-- *Contact me on discord* --> **Jayden634#0634**
+- *Contact me on discord* --> **Jayden634#0634(https://discord.gg/user/770058925114392636)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
