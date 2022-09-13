@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jayden</h1>
-<h3 align="center">Projects</h3>
+<h1 align="center">Introduction</h1>
+<h3 align="center">Hi I am Jayden, I am 16 and from the UK. I am interested In programming and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayd3n634&label=Profile%20views&color=0e75b6&style=flat" alt="jayd3n634" /> </p>
 
-- 📝 Current Project [DRP](https://discord.gg/8BPUFZdgSp)
+- Distinct RP >>> https://discord.gg/8BPUFZdgSp
 
 - 🌱 I’m currently learning **lua, html, python & Java Script**
 
