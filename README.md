@@ -1,5 +1,5 @@
 <h1 align="center">Introduction</h1>
-<h3 align="center">Hi I am Jayden, I am 16 and from the UK. I am interested In programming and development.</h3>
+<h3 align="center">*Hi I am Jayden, I am 16 and from the UK. I am interested In programming and development.*</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayd3n634&label=Profile%20views&color=0e75b6&style=flat" alt="jayd3n634" /> </p>
 
