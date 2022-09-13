@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayd3n634&label=Profile%20views&color=0e75b6&style=flat" alt="jayd3n634" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayd3n634" alt="jayd3n634" /></a> </p>
-
-- 📝 Current Project [Distinct RP](https://discord.gg/drpuk)
+- 📝 Current Project [DRP](https://discord.gg/8BPUFZdgSp)
 
 - 🌱 I’m currently learning **lua, html, python & Java Script**
 
