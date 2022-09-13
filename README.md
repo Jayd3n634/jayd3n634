@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayd3n634&label=Profile%20views&color=0e75b6&style=flat" alt="jayd3n634" /> </p>
 
-- Distinct RP >>> https://discord.gg/8BPUFZdgSp
+- *Distinct RP -->* https://discord.gg/8BPUFZdgSp
 
-- 🌱 I’m currently learning **lua, html, python & Java Script**
+- *I’m currently intrested in* --> **lua, html, python & Java Script**
 
-- 📫 Discord **Jayden634#0634**
+- *Contact me on discord* --> **Jayden634#0634**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
