@@ -9,7 +9,7 @@
 
 - *I’m currently intrested in --> **lua, html, python & Java Script***
 
-- *Looking to improve on --> **html, python & Java Script***
+- *Looking to learn on --> **html, python & Java Script***
 
 - *Feel free to contact me on discord -->* **Jayden634#0634**
 
