@@ -5,7 +5,7 @@
 
 - *Distinct RP --> https://discord.gg/8BPUFZdgSp*
 
-- *Mystic RP --> (Coming soon)*
+- *Looking for dev work, dm me --> Jayden634#0634*
 
 - *I’m currently intrested in --> **lua, html, python & Java Script***
 
